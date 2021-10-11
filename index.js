@@ -1,13 +1,5 @@
 var webdriver = require('selenium-webdriver');
 
-// Input capabilities
-var capabilities = {
-  'os': 'windows',
-  'os_version': '10',
-  'browserName': 'chrome',
-  'browser_version' : 'latest',
-  
-
 const capabilities1 = {
   'browserName': 'chrome',
   'browser_version': 'latest',
