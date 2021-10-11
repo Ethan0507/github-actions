@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Ethan0507/github-actions#readme",
   "devDependencies": {
+    "http-server": "^13.0.2",
     "selenium-webdriver": "^4.0.0-rc-2"
   }
 }
